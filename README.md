@@ -3,7 +3,7 @@ A free roblox auto relauncher.
 
 ## Features
 - Auto Relaunch
-- Join Server
+- Auto Rejoin
 
 ## Requirement
 - Python (3.10.x)
