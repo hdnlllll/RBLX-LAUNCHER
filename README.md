@@ -10,4 +10,4 @@ A free roblox auto relauncher.
 1. Download Python from [https://www.python.org/downloads/](https://www.python.org/downloads/), checking "Add Python to PATH"
 2. Open CMD
 3. Run `pip install requests`
-4. Download 
+4. Download Android Debug Bridge
