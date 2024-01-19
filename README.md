@@ -1,6 +1,10 @@
 # RBLX-LAUNCHER
 A free roblox auto relauncher.
 
+## Features
+- Auto Relaunch
+- Join Server
+
 ## Requirement
 - Python (3.10.x)
 - requests (latest)
