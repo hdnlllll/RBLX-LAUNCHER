@@ -19,6 +19,6 @@ A free roblox auto relauncher.
 10. In the “Edit Environment Variable” window, click the “New” button.
 11. Paste the ADB folder path you copied earlier into the input field.
 12. Click “OK” to close each of the windows.
-13. Download [RBLX-LAUNCHER](https://github.com/hdnlllll/RBLX-LAUNCHER/releases)https://github.com/hdnlllll/RBLX-LAUNCHER/releases)
+13. Download [RBLX-LAUNCHER](https://github.com/hdnlllll/RBLX-LAUNCHER/releases)
 14. run the exe
 15. done
